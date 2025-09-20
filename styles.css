@@ -48,7 +48,13 @@ li{
     align-items: sp;
 }
 
-img{
+/* img{
+    height: auto;
+    max-width: 100%;
+    border-radius: 100px;
+} */
+
+.picture-1{
     height: auto;
     max-width: 100%;
     border-radius: 100px;
