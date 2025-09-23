@@ -105,27 +105,28 @@ button{
 }
 
 /* Projects section */
-#box{
+/* #box{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     gap: 5px; 
     height: auto;
     background-color: rgb(146, 216, 216);
-}
+} */
 
 .picture-2, .picture-3{
     height: auto;
     max-width: 100%;
     border-radius: 20px;
-    padding: 20px;
+    padding: 10px;
+    margin-right: 10px;
 }
 
 .project-1, .project-2{
     width: 50%;
     text-align: center;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     border: 2px solid rgb(182, 179, 179);
 }
 /* the Experience section */
