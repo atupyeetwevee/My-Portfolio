@@ -35,7 +35,8 @@ li{
 /* the about section */
 #box1{
     display: flex;
-    gap: 100px;
+    gap: 100px; 
+    justify-content: space-evenly;
 }
 
 #box2{
@@ -45,7 +46,10 @@ li{
 #about p{
     text-align: left;
     padding-top: 30px;
-    align-items: sp;
+    padding-right: 50px;
+    font-size: 20px;
+    line-height: 1.6;
+    font-family: Tahoma, Verdana, sans-serif;
 }
 
 /* img{
