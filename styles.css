@@ -148,14 +148,14 @@ button{
 
 .project-1, .project-2{
     /* width: 50%; */
-    height: auto;
+    height: 200px;
     text-align: center;
     align-items: center;
     padding: 20px;
     background-color: rgba(138, 143, 143, 0.267);
     border: 2px solid rgb(182, 179, 179);
     border-radius: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .bold{
