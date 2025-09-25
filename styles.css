@@ -43,7 +43,16 @@ li{
     margin-bottom: 30px;
 }
 
-
+.area1 button{
+    background-color: rgb(69, 166, 223);
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    margin-right: 50px;
+}
 /* the about section */
 #box1{
     display: flex;
