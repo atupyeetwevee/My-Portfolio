@@ -140,14 +140,15 @@ button{
 }
 
 .picture-2, .picture-3{
-    height: auto;
-    max-width: 100%;
+    height: 50%;
+    /* max-width: 100%; */
     border-radius: 20px;
     margin-right: 10px;
 }
 
 .project-1, .project-2{
-    width: 50%;
+    /* width: 50%; */
+    height: auto;
     text-align: center;
     align-items: center;
     padding: 20px;
