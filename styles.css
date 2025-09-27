@@ -132,22 +132,21 @@ button{
 #box{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    gap: 20px; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     height: auto;
     width: 100%;
-    padding: 20px;
 }
 
 .picture-2, .picture-3, .picture-4, .picture-5, .picture-6{
     width: auto;
-    height: 50%;
+    height: 25%;
     /* max-width: 100%; */
     border-radius: 20px;
-    margin-right: 10px;
+    margin-bottom: 20px;
 }
 
-.project-1, .project-2, .project-3, .project-4, .project-5{
+/* .project-1, .project-2, .project-3, .project-4, .project-5{
     display: flex;
     /* width: 50%; */
     height: 200px;
@@ -158,7 +157,7 @@ button{
     border: 2px solid rgb(182, 179, 179);
     border-radius: 20px;
     margin-bottom: 10px;
-}
+} */
 
 .bold{
     font-weight: bolder;
