@@ -140,7 +140,7 @@ button{
 
 .picture-2, .picture-3, .picture-4, .picture-5, .picture-6{
     width: auto;
-    height: 25%;
+    height: 50%;
     /* max-width: 100%; */
     border-radius: 20px;
     margin-bottom: 20px;
