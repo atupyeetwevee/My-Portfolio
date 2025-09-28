@@ -131,19 +131,20 @@ button{
 /* Projects section */
 #box{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: auto;
     width: 100%;
+    background-color: aqua;
 }
 
 .project{
-    width: 50%;
+    width: 300px;
     height: auto;
     text-align: center;
-    padding: 20px 0px;
-    margin-bottom: 20px;
+    padding: 20px;
+    margin: 20px;
     background-color: #0d1b2a;
 }
 
@@ -151,6 +152,7 @@ button{
     border-radius: 20px;
     margin-bottom: 20px;
     max-width: 90%;
+    width: 150px;
     height: auto;
 }
 
