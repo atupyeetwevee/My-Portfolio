@@ -138,6 +138,15 @@ button{
     width: 100%;
 }
 
+.project{
+    width: 60%;
+    height: auto;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #0d1b2a;
+}
+
 .picture-2, .picture-3, .picture-4, .picture-5, .picture-6{
     width: auto;
     height: 50%;
@@ -145,19 +154,6 @@ button{
     border-radius: 20px;
     margin-bottom: 20px;
 }
-
-/* .project-1, .project-2, .project-3, .project-4, .project-5{
-    display: flex;
-    /* width: 50%; */
-    height: 200px;
-    text-align: center;
-    align-items: center;
-    padding: 20px;
-    background-color: rgba(138, 143, 143, 0.267);
-    border: 2px solid rgb(182, 179, 179);
-    border-radius: 20px;
-    margin-bottom: 10px;
-} */
 
 .bold{
     font-weight: bolder;
