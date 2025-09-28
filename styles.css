@@ -131,7 +131,7 @@ button{
 /* Projects section */
 #box{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: auto;
@@ -139,20 +139,19 @@ button{
 }
 
 .project{
-    width: 60%;
+    width: 50%;
     height: auto;
     text-align: center;
-    padding: 20px;
+    padding: 20px 0px;
     margin-bottom: 20px;
     background-color: #0d1b2a;
 }
 
-.picture-2, .picture-3, .picture-4, .picture-5, .picture-6{
-    width: auto;
-    height: 50%;
-    /* max-width: 100%; */
+.picture-2{
     border-radius: 20px;
     margin-bottom: 20px;
+    max-width: 90%;
+    height: auto;
 }
 
 .bold{
