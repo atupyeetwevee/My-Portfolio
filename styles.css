@@ -172,6 +172,10 @@ button{
 .social-links:focus{
     color: orange;
 }
+
+.social-links:active{
+    color: green;
+}
 /* the Experience section */
 
 /* the Future goals section */
