@@ -148,6 +148,17 @@ button{
     background-color: #0d1b2a;
 }
 
+.view-more{
+    background-color: rgb(69, 166, 223);
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    font-weight: bolder;
+    color: black;
+    font-size: 15px;
+    
+}
+
 .picture-2{
     border-radius: 20px;
     margin-bottom: 20px;
