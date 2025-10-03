@@ -136,7 +136,6 @@ button{
     justify-content: space-evenly;
     height: auto;
     width: 100%;
-    background-color: aqua;
 }
 
 .project{
@@ -152,10 +151,11 @@ button{
     background-color: rgb(69, 166, 223);
     border-radius: 10px;
     height: 40px;
-    width: 100px;
+    width: 150PX;
     font-weight: bolder;
     color: black;
     font-size: 15px;
+    align-items: center;
     
 }
 
