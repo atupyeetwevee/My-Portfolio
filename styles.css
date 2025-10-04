@@ -133,7 +133,7 @@ button{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     height: auto;
     width: 100%;
 }
