@@ -148,14 +148,13 @@ button{
 }
 
 .view-more{
-    background-color: rgb(69, 166, 223);
-    border-radius: 10px;
-    height: 40px;
-    width: 150PX;
     font-weight: bolder;
-    color: black;
+    color: white;
     font-size: 15px;
 }
+
+/* 
+ */
 
 .picture-2{
     border-radius: 20px;
