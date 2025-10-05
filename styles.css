@@ -130,12 +130,17 @@ button{
 
 /* Projects section */
 .container{
-    display: flex;
+    /* display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
     height: auto;
-    width: 100%;
+    width: 100%; */
+
+    display: flex;
+    flex-wrap: wrap;          /* allows items to go to a new line */
+    justify-content: center;  /* centers all items in the row */
+    gap: 20px;                /* space between items */
 }
 
 .project{
@@ -154,6 +159,9 @@ button{
     background-color: #0d1b2a;
     width: 25%;
     height: auto;
+    display: flex;
+    justify-content: center;  /* center link horizontally */
+    align-items: center;      /* center link vertically */
 }
 .view-more{
     font-weight: bolder;
