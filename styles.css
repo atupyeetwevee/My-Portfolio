@@ -147,11 +147,14 @@ button{
     background-color: #0d1b2a;
 }
 
-/* .project-1{
-    background: #0d1b2a;
-    justify-self: center;
-} */
-
+.view-more-card{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: #0d1b2a;
+    width: 25%;
+    height: auto;
+}
 .view-more{
     font-weight: bolder;
     color: black;
