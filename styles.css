@@ -130,13 +130,6 @@ button{
 
 /* Projects section */
 .container{
-    /* display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    height: auto;
-    width: 100%; */
-
     display: flex;
     flex-wrap: wrap;          /* allows items to go to a new line */
     justify-content: center;  /* centers all items in the row */
