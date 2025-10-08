@@ -1,0 +1,50 @@
+Networking knowledge – understanding of data transfer, protocols, and network infrastructure.
+
+Data transmission & communication – ability to manage and troubleshoot data flow between systems.
+
+Analytical skills – monitoring, diagnosing, and optimizing communication performance.
+
+Technical proficiency – using tools and technologies for efficient data handling and connectivity.
+
+Problem-solving – resolving communication issues and ensuring reliable data exchange.
+
+Collaboration & communication – working effectively with teams to implement and maintain networks.
+
+Security awareness – understanding of basic measures to protect data in transit.
+
+
+
+Web structure creation – building and organizing content using HTML elements.
+
+Styling & layout design – applying CSS for visual appearance, positioning, and responsiveness.
+
+Responsive design – creating websites that adapt to different screen sizes and devices.
+
+Semantic markup – using proper HTML tags to improve accessibility and SEO.
+
+Cross-browser compatibility – ensuring consistent design across different browsers.
+
+Basic debugging – identifying and fixing layout or styling issues.
+
+
+Designing intuitive and user-friendly interfaces.
+
+Applying design principles (color, typography, layout, consistency).
+
+Creating wireframes, mockups, and prototypes.
+
+Conducting basic user research and usability testing.
+
+Ensuring responsive and accessible design.
+
+
+
+Word processing (MS Word) – document creation, formatting, templates.
+
+Spreadsheets (MS Excel) – formulas, charts, data analysis, pivot tables.
+
+Presentations (MS PowerPoint) – slide design, visuals, animations.
+
+Data organization & management (MS Access / Excel).
+
+Collaboration & productivity – using Outlook, Teams, and other Office tools.
