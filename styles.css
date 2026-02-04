@@ -131,39 +131,45 @@ button{
 /* Projects section */
 .container{
     display: grid;
-    grid-template-columns: (1fr, 1fr, 1fr); /* 3 columns of equal width */
-    background-color: cornsilk;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    grid-template-rows: repeat(3, auto);  /* 2 rows, height automatic */
+    gap: 10px; /* optional spacing between grid items */
+    background-color: antiquewhite;
     width: 100%;
+    padding: 20px;
 }
 
-.project{
-    width: 25%;
-    height: auto;
+div .project {
+    background-color: #0d1b2a;
+    color: white;
     text-align: center;
     padding: 20px;
-    margin: 20px;
-    background-color: #0d1b2a;
+    border-radius: 10px;
 }
 
 .view-more-card{
+    grid-column: 2 / 3;  /* place it in the middle column */
+    width: 100%;        /* different width */
+    height: 2vh;      /* different height */
+    justify-self: center; /* center it inside the grid cell */
+    background-color: #0d1b2a;
+    text-align: center;
+    padding: 10px;
+}
+/* #project{
+    width: 25%;
+    height: auto;
     text-align: center;
     padding: 20px;
     margin: 20px;
-    background-color: #0d1b2a;
-    width: 25%;
-    height: auto;
-    display: flex;
-    justify-content: center;  /* center link horizontally */
-    align-items: center;      /* center link vertically */
+    background-color: #0d1b2a; */
 }
+
 .view-more{
     font-weight: bolder;
     color: black;
     font-size: 15px;
 }
-
-/* 
- */
 
 .picture-2{
     border-radius: 20px;
