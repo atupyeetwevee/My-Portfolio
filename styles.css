@@ -133,7 +133,7 @@ button{
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
     grid-template-rows: repeat(3, auto);  /* 2 rows, height automatic */
-    gap: 10px; /* optional spacing between grid items */
+    gap: 50px; /* optional spacing between grid items */
     background-color: antiquewhite;
     width: 100%;
     padding: 20px;
